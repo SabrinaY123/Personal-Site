@@ -1,4 +1,4 @@
-# Personal-Site.sabrinay123.github.io
+# Title: Personal-Site
 # Table of contents
 
 - [Overview](#overview)
@@ -27,7 +27,7 @@
 - CSS custom properties
 
 ### What I learned
-= Basic and Intermediate CSS
+- Basic and Intermediate CSS
 
 ### Continued development
 - Recognized that I need practice with centering & positioning
@@ -36,7 +36,9 @@
 ### Useful resources
 
 ![w3 site](https://www.w3schools.com/) 
+
 ![Angela Yu's course on Udemy](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
+
 ![Reference for Personal Site: Sean Halpin](https://web.archive.org/web/20180819202235js_/http://seanhalpin.io/)
 
 ## Author
