@@ -131,6 +131,16 @@ body {
     margin: 100px auto 100px auto;
 }
 
+.profile-img {
+    border-style: solid;
+    border-color: #40514E;
+    border-radius: 50%;
+    height: 10rem;
+    object-fit: cover;
+    object-position: 20% 30%;
+    width: 10rem;
+}
+
 .programmer {
     font-size: 2.5rem;
 }
