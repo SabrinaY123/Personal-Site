@@ -14,7 +14,6 @@ a:hover {
     color: #66BFBF;
     font-family: 'Amatic SC', cursive;
     font-size: 5.625rem;
-    margin: 50px auto 0px auto;
 }
 
 h2 {
@@ -59,8 +58,8 @@ body {
 /************************CLASS SELECTORS************************/
 .bottom-cloud {
     position: absolute;
-    left: 150px;
-    bottom: 300px;
+    bottom: 10%;
+    left: 20%;
 }
 
 .bottom-container {
@@ -97,7 +96,6 @@ body {
 }
 
 .communication-skill-img {
-    border-radius: 50%;
     float: left;
     margin-right: 30px;
     width: 25%;
@@ -118,9 +116,21 @@ body {
     padding: 20px 10px;
 }
 
+.home-page {
+    padding: 5%;
+    max-width: 60%;
+    margin: 0 auto;
+}
+
 .intro {
     width: 30%;
     margin: auto;
+}
+
+.medium-cloud {
+    position: absolute;
+    left: 150px;
+    bottom: 400px;
 }
 
 .pro {
@@ -132,13 +142,14 @@ body {
 }
 
 .profile-img {
-    border-style: solid;
+    border-style: none;
+    border-width: 2px;
     border-color: #40514E;
     border-radius: 50%;
-    height: 10rem;
+    height: 12rem;
     object-fit: cover;
     object-position: 20% 30%;
-    width: 10rem;
+    width: 12rem;
 }
 
 .programmer {
@@ -160,16 +171,16 @@ body {
     background-color: #EAF6F6;
     margin: 0 auto 0 auto;
     position: relative;
-    padding-top: 100px;
+    padding: 5%;
 }
+
 .top-cloud {
     position: absolute;
-    top: 40px;
-    right: 200px;
+    top: 10%;
+    right: 20%;
 }
 
 .web-dev-skill-img {
-    border-radius: 50%;
     float: right;
     margin-left: 30px;
     width: 25%;
